@@ -10,3 +10,7 @@ data/
 .venv
 venv
 .idea
+
+# custom
+mlruns/
+models/
