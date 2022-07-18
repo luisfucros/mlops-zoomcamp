@@ -6,3 +6,5 @@ seaborn
 hyperopt
 xgboost
 pyarrow
+fastparquet
+matplotlib
